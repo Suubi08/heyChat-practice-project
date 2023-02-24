@@ -1,0 +1,5 @@
+POST http://localhost:5000/signup
+Content-Type: application/json
+
+{ "username": "baker"}
+ {"secret": "Baker123"}   
